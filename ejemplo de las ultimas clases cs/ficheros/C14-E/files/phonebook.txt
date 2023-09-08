@@ -1,0 +1,7 @@
+Luis,22
+elo,4
+Moises,100
+Cristel,123
+Abner,123
+Javier,456
+David,789
